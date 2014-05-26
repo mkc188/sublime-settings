@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"COBOL Syntax",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Prolog",
+		"SCSS",
+		"SFTP",
+		"SML (Standard ML)",
+		"SublimeLinter",
+		"SublimeLinter-cpplint",
+		"SublimeLinter-pylint",
+		"Sublimerge Pro",
+		"TabsExtra",
+		"Terminal",
+		"Theme - Soda",
+		"VimL"
+	]
+}

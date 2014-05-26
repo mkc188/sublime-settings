@@ -1,0 +1,37 @@
+{
+	"animation_enabled": false,
+	"auto_complete": false,
+	"color_scheme": "Packages/subl-hybrid/subl-hybrid.tmTheme",
+	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"ignored_packages":
+	[
+		"Better CoffeeScript"
+	],
+	"indent_to_bracket": true,
+	"line_numbers": false,
+	"margin": 0,
+	"move_to_limit_on_up_down": false,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true
+}
